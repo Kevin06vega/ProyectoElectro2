@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Reglas de este proyecto
+/resultados/
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
